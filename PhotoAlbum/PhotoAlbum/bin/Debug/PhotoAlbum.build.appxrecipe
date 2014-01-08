@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NAI-BRIANAP</Machine>
+    <WindowsUser>v-vibaza</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>866eb741-7a6c-4688-b86f-a0507e8e204d</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\PhotoAlbum\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.exe">
+      <PackagePath>PhotoAlbum.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Data.Edm.5.6.0\lib\portable-net40+sl5+wp8+win8\Microsoft.Data.Edm.Portable.dll">
+      <PackagePath>Microsoft.Data.Edm.Portable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Data.OData.5.6.0\lib\portable-net40+sl5+wp8+win8\Microsoft.Data.OData.Portable.dll">
+      <PackagePath>Microsoft.Data.OData.Portable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Bcl.Async.1.0.16\lib\win8\Microsoft.Threading.Tasks.dll">
+      <PackagePath>Microsoft.Threading.Tasks.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Bcl.Async.1.0.16\lib\win8\Microsoft.Threading.Tasks.Extensions.dll">
+      <PackagePath>Microsoft.Threading.Tasks.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\WindowsAzure.MobileServices.1.0.2\lib\netcore45\Microsoft.WindowsAzure.Mobile.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\WindowsAzure.MobileServices.1.0.2\lib\netcore45\Microsoft.WindowsAzure.Mobile.Ext.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.Ext.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Newtonsoft.Json.5.0.8\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Net.Http.2.2.13\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Net.Http.2.2.13\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\System.Spatial.5.6.0\lib\portable-net40+sl5+wp8+win8\System.Spatial.Portable.dll">
+      <PackagePath>System.Spatial.Portable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Data.Edm.5.6.0\lib\portable-net40+sl5+wp8+win8\de\Microsoft.Data.Edm.Portable.resources.dll">
+      <PackagePath>de\Microsoft.Data.Edm.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Data.Edm.5.6.0\lib\portable-net40+sl5+wp8+win8\es\Microsoft.Data.Edm.Portable.resources.dll">
+      <PackagePath>es\Microsoft.Data.Edm.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Data.Edm.5.6.0\lib\portable-net40+sl5+wp8+win8\fr\Microsoft.Data.Edm.Portable.resources.dll">
+      <PackagePath>fr\Microsoft.Data.Edm.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Data.Edm.5.6.0\lib\portable-net40+sl5+wp8+win8\it\Microsoft.Data.Edm.Portable.resources.dll">
+      <PackagePath>it\Microsoft.Data.Edm.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Data.Edm.5.6.0\lib\portable-net40+sl5+wp8+win8\ja\Microsoft.Data.Edm.Portable.resources.dll">
+      <PackagePath>ja\Microsoft.Data.Edm.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Data.Edm.5.6.0\lib\portable-net40+sl5+wp8+win8\ko\Microsoft.Data.Edm.Portable.resources.dll">
+      <PackagePath>ko\Microsoft.Data.Edm.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Data.Edm.5.6.0\lib\portable-net40+sl5+wp8+win8\ru\Microsoft.Data.Edm.Portable.resources.dll">
+      <PackagePath>ru\Microsoft.Data.Edm.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Data.Edm.5.6.0\lib\portable-net40+sl5+wp8+win8\zh-Hans\Microsoft.Data.Edm.Portable.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.Data.Edm.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Data.Edm.5.6.0\lib\portable-net40+sl5+wp8+win8\zh-Hant\Microsoft.Data.Edm.Portable.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.Data.Edm.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Data.OData.5.6.0\lib\portable-net40+sl5+wp8+win8\de\Microsoft.Data.OData.Portable.resources.dll">
+      <PackagePath>de\Microsoft.Data.OData.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Data.OData.5.6.0\lib\portable-net40+sl5+wp8+win8\es\Microsoft.Data.OData.Portable.resources.dll">
+      <PackagePath>es\Microsoft.Data.OData.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Data.OData.5.6.0\lib\portable-net40+sl5+wp8+win8\fr\Microsoft.Data.OData.Portable.resources.dll">
+      <PackagePath>fr\Microsoft.Data.OData.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Data.OData.5.6.0\lib\portable-net40+sl5+wp8+win8\it\Microsoft.Data.OData.Portable.resources.dll">
+      <PackagePath>it\Microsoft.Data.OData.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Data.OData.5.6.0\lib\portable-net40+sl5+wp8+win8\ja\Microsoft.Data.OData.Portable.resources.dll">
+      <PackagePath>ja\Microsoft.Data.OData.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Data.OData.5.6.0\lib\portable-net40+sl5+wp8+win8\ko\Microsoft.Data.OData.Portable.resources.dll">
+      <PackagePath>ko\Microsoft.Data.OData.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Data.OData.5.6.0\lib\portable-net40+sl5+wp8+win8\ru\Microsoft.Data.OData.Portable.resources.dll">
+      <PackagePath>ru\Microsoft.Data.OData.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Data.OData.5.6.0\lib\portable-net40+sl5+wp8+win8\zh-Hans\Microsoft.Data.OData.Portable.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.Data.OData.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\Microsoft.Data.OData.5.6.0\lib\portable-net40+sl5+wp8+win8\zh-Hant\Microsoft.Data.OData.Portable.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.Data.OData.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\System.Spatial.5.6.0\lib\portable-net40+sl5+wp8+win8\de\System.Spatial.Portable.resources.dll">
+      <PackagePath>de\System.Spatial.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\System.Spatial.5.6.0\lib\portable-net40+sl5+wp8+win8\es\System.Spatial.Portable.resources.dll">
+      <PackagePath>es\System.Spatial.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\System.Spatial.5.6.0\lib\portable-net40+sl5+wp8+win8\fr\System.Spatial.Portable.resources.dll">
+      <PackagePath>fr\System.Spatial.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\System.Spatial.5.6.0\lib\portable-net40+sl5+wp8+win8\it\System.Spatial.Portable.resources.dll">
+      <PackagePath>it\System.Spatial.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\System.Spatial.5.6.0\lib\portable-net40+sl5+wp8+win8\ja\System.Spatial.Portable.resources.dll">
+      <PackagePath>ja\System.Spatial.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\System.Spatial.5.6.0\lib\portable-net40+sl5+wp8+win8\ko\System.Spatial.Portable.resources.dll">
+      <PackagePath>ko\System.Spatial.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\System.Spatial.5.6.0\lib\portable-net40+sl5+wp8+win8\ru\System.Spatial.Portable.resources.dll">
+      <PackagePath>ru\System.Spatial.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\System.Spatial.5.6.0\lib\portable-net40+sl5+wp8+win8\zh-Hans\System.Spatial.Portable.resources.dll">
+      <PackagePath>zh-Hans\System.Spatial.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\packages\System.Spatial.5.6.0\lib\portable-net40+sl5+wp8+win8\zh-Hant\System.Spatial.Portable.resources.dll">
+      <PackagePath>zh-Hant\System.Spatial.Portable.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\PhotoAlbum\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\PhotoAlbum\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\PhotoAlbum\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\PhotoAlbum\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\PhotoAlbum\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\PhotoAlbum\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\PhotoAlbum\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\PhotoAlbum\PhotoAlbum\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

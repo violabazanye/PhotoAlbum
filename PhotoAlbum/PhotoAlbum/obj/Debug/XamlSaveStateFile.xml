@@ -1,0 +1,15 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\v-vibaza\documents\visual studio 2013\projects\photoalbum\photoalbum\obj\debug\intermediatexaml\photoalbum.exe" HashGuid="a719ca52-15ae-fb49-c02c-d803fc4481f0" />
+    <ReferenceAssembly PathName="c:\users\v-vibaza\documents\visual studio 2013\projects\photoalbum\packages\microsoft.data.edm.5.6.0\lib\portable-net40+sl5+wp8+win8\microsoft.data.edm.portable.dll" HashGuid="f045e1a5-0e06-a083-1449-ff381767d07b" />
+    <ReferenceAssembly PathName="c:\users\v-vibaza\documents\visual studio 2013\projects\photoalbum\packages\microsoft.data.odata.5.6.0\lib\portable-net40+sl5+wp8+win8\microsoft.data.odata.portable.dll" HashGuid="286ad8e6-6a8c-62c8-4d27-161dd3caf466" />
+    <ReferenceAssembly PathName="c:\users\v-vibaza\documents\visual studio 2013\projects\photoalbum\packages\microsoft.bcl.async.1.0.16\lib\win8\microsoft.threading.tasks.dll" HashGuid="6ff4c9bc-43f0-2289-5499-d3da0d316240" />
+    <ReferenceAssembly PathName="c:\users\v-vibaza\documents\visual studio 2013\projects\photoalbum\packages\microsoft.bcl.async.1.0.16\lib\win8\microsoft.threading.tasks.extensions.dll" HashGuid="79a01987-c06c-c9d7-37eb-629809787680" />
+    <ReferenceAssembly PathName="c:\users\v-vibaza\documents\visual studio 2013\projects\photoalbum\packages\windowsazure.mobileservices.1.0.2\lib\netcore45\microsoft.windowsazure.mobile.dll" HashGuid="39e21e0a-f4d2-0dec-96d9-6ce671cbca0f" />
+    <ReferenceAssembly PathName="c:\users\v-vibaza\documents\visual studio 2013\projects\photoalbum\packages\windowsazure.mobileservices.1.0.2\lib\netcore45\microsoft.windowsazure.mobile.ext.dll" HashGuid="893b618e-df35-828c-72d4-fe768c85726f" />
+    <ReferenceAssembly PathName="c:\users\v-vibaza\documents\visual studio 2013\projects\photoalbum\packages\newtonsoft.json.5.0.8\lib\netcore45\newtonsoft.json.dll" HashGuid="fccaaf2a-e039-795e-45a4-59ce84d1518d" />
+    <ReferenceAssembly PathName="c:\users\v-vibaza\documents\visual studio 2013\projects\photoalbum\packages\microsoft.net.http.2.2.13\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\users\v-vibaza\documents\visual studio 2013\projects\photoalbum\packages\microsoft.net.http.2.2.13\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="c:\users\v-vibaza\documents\visual studio 2013\projects\photoalbum\packages\system.spatial.5.6.0\lib\portable-net40+sl5+wp8+win8\system.spatial.portable.dll" HashGuid="5fe7c047-94c0-1029-eb83-ede093ee2841" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
